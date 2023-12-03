@@ -1,5 +1,5 @@
 # General Store 2022 Sales Analysis Project
-
+![Yes Bank.png](https://github.com/meabhaykr/Store-Data-Analysis/blob/main/Image/General%20Store%20Data%20Analysis.png)
 ## Project Summary
 
 In the General Store 2022 Sales Analysis Project, we conducted an in-depth analysis of the sales data from the year 2022. The project involved various stages such as data cleaning, processing, visualization, and report generation. By extracting valuable insights from the data, we aimed to provide Gupta Store with informed strategies to enhance their sales and customer understanding in the year 2023.
